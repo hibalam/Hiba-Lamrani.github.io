@@ -1,0 +1,51 @@
+html {
+  background-color: rgb(232, 201, 206);
+}
+
+body {
+  background-color: #faf2e4;
+  margin: 1% 10%;
+  padding: 1% 2%;
+  border: 3px solid #f1f1f1;
+  font-family: sans-serif;
+}
+
+h1 {
+  font-size: 2em;
+  font-weight: normal;   
+  text-align: center;
+  border-bottom: 1px solid rgb(232, 201, 206);
+  margin-top: 30px;
+  color: black;
+}
+
+h2 {
+  color: rgb(232, 201, 206);
+  font-size: 1em;
+  font-weight: bold;
+}
+
+hr {
+  height: 1px;  
+  background-color: rgb(232, 201, 206);
+  border: none;
+}
+
+
+footer {
+  color: grey;
+  font-weight: lighter;   
+  font-size:0.9em;
+  margin-bottom: 10px;
+}
+
+
+#logo {
+  display: block;
+  margin-left: auto; margin-right: auto;
+}
+
+.social-network-logo {
+  width: 50px;
+  height: 50px;
+}
